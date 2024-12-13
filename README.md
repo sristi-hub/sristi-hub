@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I am Sristi Sharma
+- 4th Sem Computer Engineering Student(Pashchimanchal Campus, TU)
+- AI Enthusiast | Machine Learning Explorer | Frontend Developer
+- Passoniate about deep learning and neural networks
+- You can reach me through : sristi8.sharma@gmail.com          
 
 <!--
 **sristi-hub/sristi-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
