@@ -1,8 +1,8 @@
-## Hi there 👋, I am Sristi Sharm
+## Hi there 👋, I am Sristi Sharma
 - 4th Sem Computer Engineering Student(Pashchimanchal Campus, TU)
 - AI Enthusiast | Machine Learning Explorer | Frontend Developer
 - Passoniate about deep learning and neural networks
-- 🌱 I’m currently learning **data science and machine learning**
+<!-- 🌱 I’m currently learning **data science and machine learning** >
 
 - 📫 How to reach me **sristi8.sharma@gmail.com**
 
